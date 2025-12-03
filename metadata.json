@@ -1,0 +1,8 @@
+{
+  "name": "LinguaFlow AI",
+  "description": "An intelligent English learning assistant. Import text from images or the web, translate words in context, and track your proficiency level with an AI tutor.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
